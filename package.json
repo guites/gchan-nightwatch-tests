@@ -1,0 +1,19 @@
+{
+  "name": "gchan-nightwatch-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-chrome": "nightwatch --env chrome",
+    "test-ff": "nightwatch --env firefox",
+    "test-safari": "nightwatch --env safari"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^96.0.0",
+    "geckodriver": "^2.0.4",
+    "nightwatch": "^1.7.12"
+  }
+}
