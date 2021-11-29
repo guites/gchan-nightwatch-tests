@@ -13,7 +13,7 @@ Suite of e2e tests for a vue.js app.
 - [ ] tests embedded youtube links
 - [ ] tests quotted reply preview \(both showing in the feed and not showing in the feed\)
 
-see README.md for specific browser testing.
+see package.json for specific browser testing.
 
 ## test by tags
 
